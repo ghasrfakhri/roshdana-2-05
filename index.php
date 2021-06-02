@@ -1,5 +1,8 @@
 <?php
 
+namespace Roshdana;
+
+
 abstract class Math
 {
     protected $a, $b, $c;
